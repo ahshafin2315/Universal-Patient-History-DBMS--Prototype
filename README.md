@@ -14,5 +14,6 @@
 
 
 Credits to Team Members:
- - Abrar Syed Chowdhury (#Socials Connected Here)
- - Tonmoy Paul (#Socials Connected Here)
+ - [Abrar Syed Chowdhury](https://www.facebook.com/profile.php?id=100008138852654) - Contributions: Database creation, Login System
+ - [Tonmoy Paul](https://www.facebook.com/tonmoy.paul.524) - Contributions: Admin panel, admin options
+ - 
